@@ -30,5 +30,5 @@ Welcome to the Decentralized Finance Ledger, a blockchain-based ledger system de
 
 ![Block contents showing multiple transactions](Records.PNG)
 
-
+ **Validating Transactions**
 ![Validating transaction](Validate.PNG)
