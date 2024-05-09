@@ -20,10 +20,8 @@ Welcome to the Decentralized Finance Ledger, a blockchain-based ledger system de
 7. Test blockchain validation process by using the web interface.
 
 ## Screenshots
-1. **Verify the Block Contents and Hashes**
+1. **Block Contents and Hashes**
 
-![Placeholder Image](placeholder_image_1.png)
+![Block contents showing multiple blocks](multiple_blocks.png)
 
-2. **Validate Blockchain**
 
-![Placeholder Image](placeholder_image_2.png)
