@@ -22,6 +22,6 @@ Welcome to the Decentralized Finance Ledger, a blockchain-based ledger system de
 ## Screenshots
 1. **Block Contents and Hashes**
 
-![Block contents showing multiple blocks](multiple_blocks.png)
+![Block contents showing multiple blocks](multiple_blocks.PNG)
 
 
